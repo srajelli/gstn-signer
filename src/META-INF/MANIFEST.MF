@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: commons-cli-1.4.jar bcpkix-jdk15on-156.jar bcprov-jdk15on-
+ 156.jar commons-cli-1.4-tests.jar commons-cli-1.4-javadoc.jar commons
+ -cli-1.4-sources.jar commons-cli-1.4-test-sources.jar
+Main-Class: Encryptor
+
